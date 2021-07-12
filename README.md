@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ganni.
 - 🌱 I’m currently learning data science and AI.
 - 👀 I’m interested in defining and solving problems with data.
-- 💞️ Recommender System & NLP
+- 💞️ Growth | Recommender System | NLP
 
 <!---
 - 💞️ I’m looking to collaborate on ...
